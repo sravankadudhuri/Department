@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Dept">e477ce44373123009c42ea4873990e2a</application>
+        <filter/>
+        <name>Depts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_285632_departmen.dept_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-11 04:17:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e877ce44373123009c42ea4873990e2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Depts</sys_name>
+        <sys_package display_value="Department" source="x_285632_departmen">689a849e372123009c42ea4873990e84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Department">689a849e372123009c42ea4873990e84</sys_scope>
+        <sys_update_name>sys_ui_module_e877ce44373123009c42ea4873990e2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-11 04:17:49</sys_updated_on>
+        <table>x_285632_departmen_dept</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

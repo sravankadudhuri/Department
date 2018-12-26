@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d0d78280373123009c42ea4873990ed3" sys_domain="global" table="x_285632_departmen_dept" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dname</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 12:53:11</sys_created_on>
+            <sys_id>af0d002b375e23009c42ea4873990e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_285632_departmen_dept" sys_domain="global" view="Default view">d0d78280373123009c42ea4873990ed3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 12:53:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_deptno</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 12:53:11</sys_created_on>
+            <sys_id>230d002b375e23009c42ea4873990e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_285632_departmen_dept" sys_domain="global" view="Default view">d0d78280373123009c42ea4873990ed3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 12:53:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_deptloc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 12:53:11</sys_created_on>
+            <sys_id>a30d002b375e23009c42ea4873990e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_285632_departmen_dept" sys_domain="global" view="Default view">d0d78280373123009c42ea4873990ed3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 12:53:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_285632_departmen_dept</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 04:19:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0d78280373123009c42ea4873990ed3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_285632_departmen_dept</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Department" source="x_285632_departmen">689a849e372123009c42ea4873990e84</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Department">689a849e372123009c42ea4873990e84</sys_scope>
+            <sys_update_name>sys_ui_section_d0d78280373123009c42ea4873990ed3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 04:19:26</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

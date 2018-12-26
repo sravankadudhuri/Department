@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_deptloc" label="Deptloc" language="en" table="x_285632_departmen_dept">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_deptloc</element>
+            <help/>
+            <hint/>
+            <label>Deptloc</label>
+            <language>en</language>
+            <name>x_285632_departmen_dept</name>
+            <plural>Deptlocs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 04:28:42</sys_created_on>
+            <sys_id>44f90ac4373123009c42ea4873990e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deptloc</sys_name>
+            <sys_package display_value="Department" source="x_285632_departmen">689a849e372123009c42ea4873990e84</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Department">689a849e372123009c42ea4873990e84</sys_scope>
+            <sys_update_name>sys_documentation_x_285632_departmen_dept_u_deptloc_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 04:28:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Dept">2477ce44373123009c42ea4873990e25</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Depts</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_285632_departmen_dept</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_285632_departmen.dept_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-11 04:17:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c77ce44373123009c42ea4873990e27</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Depts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Department" source="x_285632_departmen">689a849e372123009c42ea4873990e84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Department">689a849e372123009c42ea4873990e84</sys_scope>
+        <sys_update_name>sys_app_module_6c77ce44373123009c42ea4873990e27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-11 04:49:47</sys_updated_on>
+        <timeline_page/>
+        <title>Depts</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
